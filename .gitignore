@@ -3,3 +3,11 @@ pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.next
 release.properties
+**/.gradle
+**/.idea
+**/app/build
+**/target
+**/*.iml
+**/*.ipr
+**/*.iws
+.~lock.selendroid_poptalk.odp#
